@@ -91,5 +91,7 @@ Table of Contents
 ### Others
 
 - [BGT Station](https://artio.station.berachain.com/)
+  
+Thanks for reading, guys!
 
 
